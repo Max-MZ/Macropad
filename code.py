@@ -1,3 +1,6 @@
+
+# Thanks to user dgriswo for figuring out the display https://github.com/dgriswo/Macropad_RP2040
+
 import board
 import digitalio
 import microcontroller

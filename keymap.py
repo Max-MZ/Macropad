@@ -17,7 +17,7 @@ key_maps = {
         11: ("", ""),
     },
     2: {
-        "Name": "Windows",
+        "Name": "TMux",
         0: ([Keycode.CONTROL, Keycode.X], "Cut"),
         1: ([Keycode.CONTROL, Keycode.C], "Copy"),
         2: ([Keycode.CONTROL, Keycode.V], "Paste"),
